@@ -10,6 +10,7 @@ Node
 
 Getting Started: 
 Project's planning (Trello board): https://trello.com/b/2JwkkJ8r/productivity-tracker
+
 Deployed app on Heroku: 
 
 Unsolved Problems: Delete, Edit
